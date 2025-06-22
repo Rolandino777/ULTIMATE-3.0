@@ -27,9 +27,11 @@ bash ULTIMATE.sh
 
 
 #Fiture Program Script 🔧
-• Admind Finder
-• Cek Nik Ektp
-• Ddos Wifi
-• Wpbrute/Brutewp
-• Serveo Ddosnet
-• Bruteforce Facebook Targetv1
+• ADMIND FINDER
+• CEK NIK EKTP
+• DDOS WIFI (root)
+• WPBRUTE/BRUTEWP
+• SERVEO DDOSNET
+• BRUTE FACEBOOK TARGETV1
+• TEMBAK/KOUTA TRI GRATIS
+• 
