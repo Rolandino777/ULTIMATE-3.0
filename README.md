@@ -13,8 +13,18 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python -y
 pip install --upgrade pip
+pip install requests
+pip install bs4
+pip install colorama
+pip install pyfiglet
 
-
-
-
-
+## Instalasi 🎭
+```bash
+pkg update && pkg upgrade
+pkg install git
+pkg install python -y
+pip install --upgrade pip
+pip install requests
+pip install bs4
+pip install colorama
+pip install pyfiglet
