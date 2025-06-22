@@ -7,13 +7,6 @@
 ![Platform](https://img.shields.io/badge/platform-Termux%2FLinux-lightgrey?logo=linux)
 ![Version](https://img.shields.io/badge/version-3.0-orange)
 
----
-
-## 🖼️ Preview Tampilan
-![Screenshot](https://raw.githubusercontent.com/Rolandino777/TERBAIK-3.0/utama/Ss.jpg)
-
----
-
 ## 🧾 Instalasi
 ```bash
 pkg update && pkg upgrade
