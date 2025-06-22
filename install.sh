@@ -22,6 +22,8 @@ echo -e "\e[0m"
 echo -e "\e[92m[+] Menginstall Module...\e[0m"
 sleep 2
 
+pkg install git bash curl wget python php nano figlet toilet ruby nc openssl unzip zip -y
+gem install lolcat
 pkg update -y && pkg upgrade -y
 pkg install git -y
 pkg install python -y
