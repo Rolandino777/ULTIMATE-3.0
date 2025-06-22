@@ -9,6 +9,13 @@
   <img src="Ss.jpg" alt="Preview Tampilan Script" width="400">
 </p>
 
+<h3 align="center">🌐 Hubungi via Facebook</h3>
+<p align="center">
+  <a href="https://facebook.com/rolandino23" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+
 # RLNDYNO - ULTIMATE 3.0 ⚔️
 > **Ethical Hacking & Pentesting Toolkit Terminal Interface** 👨‍💻  
 > 🚨 **FOR EDUCATIONAL & RESEARCH PURPOSES ONLY!** 🚨
