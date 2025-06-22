@@ -16,11 +16,16 @@
   </a>
 </p>
 
-
 ### Preview
 <p align="center">
   <img src="Ss.jpg" alt="Preview Tampilan Script" width="400">
 </p>
+
+<h3 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🎭 Crackers Community 🎭
+  </marquee>
+</h3>
 
 # RLNDYNO - ULTIMATE 3.0 ⚔️
 > **Ethical Hacking & Pentesting Toolkit Terminal Interface** 👨‍💻  
