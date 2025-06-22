@@ -9,9 +9,6 @@
 
 ---
 
-## 🎬 Preview (Demo RLNDYNO Script)
-![rlndyno-demo](https://raw.githubusercontent.com/Rolandino23/RLNDYNO-Ultimate/main/demo.gif)
-
 ---
 
 ## 🧾 Instalasi
