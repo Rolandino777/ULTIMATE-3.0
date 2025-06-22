@@ -13,3 +13,4 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python -y
 pip install --upgrade pip
+python3 -m pip install -r requirements.txt
