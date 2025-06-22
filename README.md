@@ -30,7 +30,7 @@
 # RLNDYNO - ULTIMATE 3.0 ⚔️
 > **Ethical Hacking & Pentesting Toolkit Terminal Interface** 🎭 
 
-> 🚨 **FOR EDUCATIONAL & RESEARCH PURPOSES ONLY!** 🚨
+> **"Hacking" Bukan Cuman Seni? Tapi Cara Lo Merusak Batas!** 
 
 ![GitHub Stars](https://img.shields.io/github/stars/Rolandino23/RLNDYNO-Ultimate?style=flat-square)
 ![GitHub Forks](https://img.shields.io/github/forks/Rolandino23/RLNDYNO-Ultimate?style=flat-square)
