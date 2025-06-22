@@ -11,3 +11,5 @@
 ```bash
 pkg update && pkg upgrade
 pkg install git
+pkg install python -y
+pip install --upgrade pip
