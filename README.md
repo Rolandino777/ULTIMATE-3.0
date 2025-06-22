@@ -24,3 +24,22 @@ python3 -m pip install -r requirements.txt
 bash install.sh
 git pull
 bash ULTIMATE.sh
+
+---
+
+## 🧩 Menu Fitur Program 🔧
+
+```bash
+[ 01 ] ➤ Facebook Exploit & UID Dump Tools
+[ 02 ] ➤ Email Spoofing & DNS Spoofer
+[ 03 ] ➤ GPS Tracker, IP Lookup, MAC Grabber
+[ 04 ] ➤ Doxing Tools (Target Search Engine)
+[ 05 ] ➤ Telegram Recon & Chatbot Cloner
+[ 06 ] ➤ WhatsApp Bomber (EDU), Link Grabber
+[ 07 ] ➤ Web Vulnerability Scanner + Auto Exploit
+[ 08 ] ➤ AI GPT OSINT (AI Search & Detect Target)
+[ 09 ] ➤ Educational DDoS Tool (Slowloris, UDP Flood)
+[ 10 ] ➤ Kamera & Drone Hack Simulasi
+[ 11 ] ➤ Install Tools Tambahan & Auto Setup
+[ 12 ] ➤ License Key Verifikasi & Bind Device
+[ 00 ] ➤ Keluar dari Program
