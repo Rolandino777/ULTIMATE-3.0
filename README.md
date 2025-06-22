@@ -9,6 +9,9 @@
 
 ---
 
+## 🖼️ Preview Tampilan
+![Screenshot](https://raw.githubusercontent.com/Rolandino777/TERBAIK-3.0/utama/Ss.jpg)
+
 ---
 
 ## 🧾 Instalasi
