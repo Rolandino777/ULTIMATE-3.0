@@ -1,5 +1,7 @@
 ### Preview
-<img src="Ss.jpg" alt="Ss.jpg">
+<p align="center">
+  <img src="Ss.jpg" alt="Preview Tampilan Script" width="400">
+</p>
 
 # RLNDYNO - ULTIMATE 3.0 ⚔️
 > **Ethical Hacking & Pentesting Toolkit Terminal Interface** 👨‍💻  
