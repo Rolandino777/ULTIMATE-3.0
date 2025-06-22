@@ -23,12 +23,12 @@
 
 <h3 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-     Ultimate 3.0 
+     Ultimate 3.0 🎭
   </marquee>
 </h3>
 
 # RLNDYNO - ULTIMATE 3.0 ⚔️
-> **Ethical Hacking & Pentesting Toolkit Terminal Interface** 👨‍💻  
+> **Ethical Hacking & Pentesting Toolkit Terminal Interface** 🎭 
 > 🚨 **FOR EDUCATIONAL & RESEARCH PURPOSES ONLY!** 🚨
 
 ![GitHub Stars](https://img.shields.io/github/stars/Rolandino23/RLNDYNO-Ultimate?style=flat-square)
