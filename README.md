@@ -19,7 +19,7 @@ pip install colorama
 pip install pyfiglet
 git clone https://github.com/Rolandino777/ULTIMATE-3.0.git
 cd ULTIMATE-3.0
-git pull
 python3 -m pip install -r requirements.txt
 bash install.sh
+git pull
 bash ULTIMATE.sh
