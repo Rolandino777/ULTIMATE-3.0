@@ -1,5 +1,5 @@
 # RLNDYNO - ULTIMATE 3.0 ⚔️
-> **Ethical Hacking & OSINT Toolkit Terminal Interface** 👨‍💻  
+> **Ethical Hacking & Pentesting Toolkit Terminal Interface** 👨‍💻  
 > 🚨 **FOR EDUCATIONAL & RESEARCH PURPOSES ONLY!** 🚨
 
 ![GitHub Stars](https://img.shields.io/github/stars/Rolandino23/RLNDYNO-Ultimate?style=flat-square)
