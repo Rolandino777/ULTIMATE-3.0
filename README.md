@@ -15,6 +15,13 @@
   <img src="Ss.jpg" alt="Preview Tampilan Script" width="400">
 </p>
 
+<p align="center">
+  <a href="https://t.me/rolandino28" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
+
 # RLNDYNO - ULTIMATE 3.0 ⚔️
 > **Ethical Hacking & Pentesting Toolkit Terminal Interface** 👨‍💻  
 > 🚨 **FOR EDUCATIONAL & RESEARCH PURPOSES ONLY!** 🚨
