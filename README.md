@@ -14,6 +14,7 @@ pkg install python -y
 pip install --upgrade pip
 
 ## Menjalankan Program 🎭
+```bash
 
 
 
