@@ -21,6 +21,7 @@
 <p align="center">
   <img src="Ss.jpg" alt="Preview Tampilan Script" width="400">
 </p>
+
 # RLNDYNO - ULTIMATE 3.0 ⚔️
 > **Ethical Hacking & Pentesting Toolkit Terminal Interface** 👨‍💻  
 > 🚨 **FOR EDUCATIONAL & RESEARCH PURPOSES ONLY!** 🚨
@@ -29,6 +30,7 @@
 ![GitHub Forks](https://img.shields.io/github/forks/Rolandino23/RLNDYNO-Ultimate?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Termux%2FLinux-lightgrey?logo=linux)
 ![Version](https://img.shields.io/badge/version-3.0-orange)
+
 ## Instalasi Program Script 🎭
 ```bash
 #Instalasi 🎭
