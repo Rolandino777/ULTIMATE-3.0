@@ -16,7 +16,8 @@ pip install --upgrade pip
 pip install requests
 pip install bs4
 pip install colorama
-pip install pyfiglet
+pip install rich
+pip install pytz
 git clone https://github.com/Rolandino777/ULTIMATE-3.0.git
 cd ULTIMATE-3.0
 python3 -m pip install -r requirements.txt
