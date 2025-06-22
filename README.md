@@ -7,14 +7,11 @@
 ![Platform](https://img.shields.io/badge/platform-Termux%2FLinux-lightgrey?logo=linux)
 ![Version](https://img.shields.io/badge/version-3.0-orange)
 
-## Install Module 🎭
+## Install Module ```bash🎭
 pkg update && pkg upgrade
 pkg install git
 pkg install python -y
 pip install --upgrade pip
-
-## Menjalankan Program 🎭
-```bash
 
 
 
