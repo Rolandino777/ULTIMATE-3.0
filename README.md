@@ -1,4 +1,4 @@
-### Screenshot 
+### Preview
 <img src="Ss.jpg" alt="Ss.jpg">
 
 # RLNDYNO - ULTIMATE 3.0 ⚔️
