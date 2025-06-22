@@ -25,6 +25,11 @@ bash install.sh
 git pull
 bash ULTIMATE.sh
 
-Fiture Menu Program Script 🔧
-• 
 
+#Fiture Program Script 🔧
+• Admind Finder
+• Cek Nik Ektp
+• Ddos Wifi
+• Wpbrute/Brutewp
+• Serveo Ddosnet
+• Bruteforce Facebook Targetv1
