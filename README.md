@@ -30,3 +30,9 @@ python3 -m pip install -r requirements.txt
 bash install.sh
 git pull
 bash ULTIMATE.sh
+
+<p align="center">
+  <a href="https://wa.me/6281234567890" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
