@@ -23,7 +23,7 @@
 
 <h3 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    🎭 Crackers Community 🎭
+     Ultimate 3.0 
   </marquee>
 </h3>
 
