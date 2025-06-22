@@ -7,14 +7,15 @@
 ![Platform](https://img.shields.io/badge/platform-Termux%2FLinux-lightgrey?logo=linux)
 ![Version](https://img.shields.io/badge/version-3.0-orange)
 
-## Instalasi 🧾
-```bash
+## Install Module 🎭
 pkg update && pkg upgrade
 pkg install git
 pkg install python -y
 pip install --upgrade pip
-python3 -m pip install -r requirements.txt
 
-## Instalasi 🧾
-```bash
+## Menjalankan Program 🎭
+
+
+
+
 
