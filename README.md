@@ -21,11 +21,9 @@
   <img src="Ss.jpg" alt="Preview Tampilan Script" width="400">
 </p>
 
-<h3 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-     Ultimate 3.0 🎭
-  </marquee>
-</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/RkDZ2g9QpBoGY/giphy.gif" width="400" alt="Hacker Typing">
+</p>
 
 # RLNDYNO - ULTIMATE 3.0 ⚔️
 > **Ethical Hacking & Pentesting Toolkit Terminal Interface** 🎭 
