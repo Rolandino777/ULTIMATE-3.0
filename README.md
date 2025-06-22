@@ -1,5 +1,5 @@
 ### Screenshot 
-<img src="" alt="DarkStar">
+<img src="Ss.jpg" alt="Ss.jpg">
 
 # RLNDYNO - ULTIMATE 3.0 ⚔️
 > **Ethical Hacking & Pentesting Toolkit Terminal Interface** 👨‍💻  
