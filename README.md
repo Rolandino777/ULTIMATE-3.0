@@ -21,10 +21,6 @@
   <img src="Ss.jpg" alt="Preview Tampilan Script" width="400">
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/CSUqf8U6bH8AAAAC/anonymous-hacker.gif" width="420" alt="Anonymous Hacker">
-</p>
-
 # RLNDYNO - ULTIMATE 3.0 ⚔️
 > **Ethical Hacking & Pentesting Toolkit Terminal Interface** 🎭 
 
