@@ -9,6 +9,7 @@
 
 ## Instalasi Program Script 🎭
 ```bash
+#Instalasi 🎭
 pkg update && pkg upgrade
 pkg install git
 pkg install python -y
@@ -26,7 +27,7 @@ git pull
 bash ULTIMATE.sh
 
 
-#Fiture Program Script 🔧
+#Fiture Program Script 🎭
 • ADMIND FINDER
 • CEK NIK EKTP
 • DDOS WIFI (root)
