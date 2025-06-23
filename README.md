@@ -46,4 +46,4 @@ cd ULTIMATE-3.0
 python3 -m pip install -r requirements.txt
 bash install.sh
 git pull
-bash ULTIMATE.sh 
+bash ULTIMATE_UPDATE.sh
