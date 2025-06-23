@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
+
 <p align="center">
   <a href="https://wa.me/6281243587205" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
