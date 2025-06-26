@@ -30,5 +30,6 @@ pkg install python -y
 pkg install php -y
 pkg install curl -y
 pkg install bash -y
+pkg install neofetch
 # 🔽 Clone & Jalankan Tool
 
