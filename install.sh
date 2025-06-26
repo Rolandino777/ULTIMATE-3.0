@@ -31,6 +31,7 @@ pkg install php -y
 pkg install curl -y
 pkg install bash -y
 pkg install neofetch
+pip install instaloader
 
 #🔽 Clone & Jalankan Tool
 
