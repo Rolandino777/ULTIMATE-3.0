@@ -34,4 +34,4 @@ pkg install neofetch
 pip install instaloader
 cpan HTTP::Request
 
-echo -e "e[92m[+] Susceusful Install Module ✓\e[0m"
+echo -e "\e[92m[+] Susceusful Install Module ✓\e[0m"
