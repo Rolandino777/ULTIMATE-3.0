@@ -19,7 +19,7 @@ EOF
 echo -e "\e[0m"
 
 # ⏳ Proses Install
-echo -e "\e[92m[+] Instalation Module...\e[0m"
+echo -e "\e[92m[+] Install Module !\e[0m"
 sleep 2
 
 pkg install git bash curl wget python php nano figlet toilet ruby nc openssl unzip zip -y
@@ -32,6 +32,6 @@ pkg install curl -y
 pkg install bash -y
 pkg install neofetch
 pip install instaloader
+cpan HTTP::Request
 
-#🔽 Clone & Jalankan Tool
-
+echo -e "e[92m[+] Susceusful Install Module ✓\e[0m"
