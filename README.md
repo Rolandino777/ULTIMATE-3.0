@@ -16,7 +16,8 @@
 Preview
 <p align="center">
   <img src="Ss.jpg" alt="Preview Tampilan Script" width="400">
-    <img src="Ss.jpg" alt="Preview Tampilan Script" width="400">
+    
+  <img src="h.jpg" alt="Preview Tampilan Script" width="400">
 
 
 # RLNDYNO - ULTIMATE 3.0 ⚔️
